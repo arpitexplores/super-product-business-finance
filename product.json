@@ -1,0 +1,22 @@
+{
+  "name": "super-product-business-finance",
+  "title": "Super Product/Business/Finance",
+  "description": "Product, business, and finance: market sizing, pricing, monetisation, and PM frameworks.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Pricing & Monetisation",
+      "path": "references/modules/pricing-strategy.md"
+    },
+    {
+      "name": "Product Management",
+      "path": "references/modules/product-manager.md"
+    },
+    {
+      "name": "Startup Analysis",
+      "path": "references/modules/startup-analyst.md"
+    }
+  ]
+}
