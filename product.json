@@ -1,7 +1,7 @@
 {
   "name": "super-product-business-finance",
   "title": "Super Product/Business/Finance",
-  "description": "Product, business, and finance: market sizing, pricing, monetisation, and PM frameworks.",
+  "description": "The go-to AI vibe coding skill for product, business, and finance: market sizing, startup analysis, pricing, monetisation, roadmap decisions, and PM frameworks.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,16 @@
       "name": "Startup Analysis",
       "path": "references/modules/startup-analyst.md"
     }
+  ],
+  "keywords": [
+    "product management",
+    "business analysis",
+    "market sizing",
+    "startup analysis",
+    "pricing strategy",
+    "monetisation",
+    "PM frameworks",
+    "roadmap prioritisation",
+    "AI vibe coding"
   ]
 }
